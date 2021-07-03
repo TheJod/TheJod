@@ -1,5 +1,5 @@
 - 👋 Hi. My name is Jod. 
-- I am blessed to have worked in Quality Assurance field in Back End area of an ever-growing tech company in South East Asia.
+- :star: I am blessed to have worked in Quality Assurance field in Back End area of an ever-growing tech company in South East Asia.
 - 🌱 I’m having fun learning Scala, Python, Bash, React
 
 <!---
